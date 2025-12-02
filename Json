@@ -1,0 +1,24 @@
+{
+  "name": "Bobo Coin",
+  "symbol": "BOBO",
+  "description": "Bobo Coin is a meme token inspired by the legendary bear who is always pessimistic but secretly addicted to the next bull run. BOBO represents the emotional rollercoaster of traders who fade every rally, yet never stop watching the charts.",
+  "image": "https://raw.githubusercontent.com/BTCro12/Bobo/main/file_000000005f5871f4b998a285371335c1.png",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Meme Coin"
+    },
+    {
+      "trait_type": "Character",
+      "value": "Bobo the Bear"
+    },
+    {
+      "trait_type": "Mood",
+      "value": "Skeptical"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Solana"
+    }
+  ]
+}
